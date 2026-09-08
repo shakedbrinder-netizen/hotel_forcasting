@@ -1,0 +1,11 @@
+pandas
+numpy
+openpyxl
+matplotlib
+seaborn
+pyluach
+lightgbm
+scikit-learn
+optuna
+lazypredict
+streamlit

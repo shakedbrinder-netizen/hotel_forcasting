@@ -1,0 +1,12 @@
+.venv/
+venv/
+env/
+
+data/
+*.xlsx
+*.csv
+!outputs/results_dt.csv
+!outputs/results_dj.csv
+
+__pycache__/
+*.pyc
